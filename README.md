@@ -2,7 +2,17 @@
 
 ## Feature: Generate increasing pyramid using raylib.
 
+### Illustration
 
+Using type ```double``` can generate aligning pyramid:
+
+![double pyramid(video loading...)]([https://github.com/jay1224-jay/Increasing-Pyramid-With-Raylib/assets/53821314/7540e24f-2b13-4c9f-ab08-1f7f70974663](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276628910-7540e24f-2b13-4c9f-ab08-1f7f70974663.mp4))
+
+However, using type ```int``` as default will make the pyramid "shake"
+
+![int pyramid shaking(video loading...)](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276630102-120f62b6-fd65-47b6-b166-fb79ada1d9cb.mp4)
+
+---
 ### Compilation
 
 run ```make``` or the following command:
