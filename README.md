@@ -6,7 +6,7 @@
 
 Using type ```double``` can generate aligning pyramid:
 
-![double pyramid(video loading...)]([https://github.com/jay1224-jay/Increasing-Pyramid-With-Raylib/assets/53821314/7540e24f-2b13-4c9f-ab08-1f7f70974663](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276628910-7540e24f-2b13-4c9f-ab08-1f7f70974663.mp4))
+![double pyramid(video loading...)](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276628910-7540e24f-2b13-4c9f-ab08-1f7f70974663.mp4)
 
 However, using type ```int``` as default will make the pyramid "shake"
 
