@@ -10,7 +10,7 @@ Using type ```double``` can generate aligning pyramid:
 
 However, using type ```int``` as default will make the pyramid "shake"
 
-![int pyramid shaking(video loading...)](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276630102-120f62b6-fd65-47b6-b166-fb79ada1d9cb.mp4)
+[int pyramid shaking(video loading...)](https://github-production-user-asset-6210df.s3.amazonaws.com/53821314/276630102-120f62b6-fd65-47b6-b166-fb79ada1d9cb.mp4)
 
 ---
 ### Compilation
